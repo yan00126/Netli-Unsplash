@@ -377,6 +377,7 @@ Gallery
 
 .image-container .img {
   height: 10rem;
+  border-radius: var(--borderRadius);
 }
 
 @media (min-width: 768px) {
