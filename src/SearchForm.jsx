@@ -13,7 +13,7 @@ const SearchForm = () => {
   return (
     <section>
       <h1 className="title">unsplash images</h1>
-      <h4>by Felix Yan</h4>
+      <h5 className="title">by Felix Yan</h5>
       <form className="search-form" onSubmit={handleSubmit}>
         <input
           type="text"
